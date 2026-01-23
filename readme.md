@@ -1,8 +1,6 @@
- Welcomw to git
+   hello all
 
- 
- hello all
-
- changes from pavan
- 
  "added feature branch"
+
+  changes from pavan
+
